@@ -1,8 +1,6 @@
 ---
 
 applications:
-- services:
-  - text-to-speech-service
   name: text-to-speech-demo
   path: .
   memory: 768M
